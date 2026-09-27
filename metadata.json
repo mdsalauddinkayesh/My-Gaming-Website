@@ -1,0 +1,6 @@
+{
+  "name": "RetroPlay",
+  "description": "Discover retro, indie and classic-style games that you can play online for free right in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
